@@ -32,7 +32,7 @@ A logistic regression model was initially used to build a model which was used t
 ![image](https://github.com/user-attachments/assets/bc2dfb20-a96d-425c-8f7a-ed89555c6716)
 ![image](https://github.com/user-attachments/assets/0adb5707-0d35-4a07-b688-ec88f818eaf7)
 
-All 5 models performed excellently with the least performing model (Ridge Classifier Model) having an accuracy of 0.97. To further determine the best performing of the models, a confusion matrix was plotted for all five models. Of the 5 models, the Random Forest Classifier model is the most preferred because 
+All 5 models performed excellently with the least performing model (Ridge Classifier Model) having an accuracy of 0.97. To further determine the best performing of the models, a confusion matrix was plotted for all five models. Of the 5 models, the Random Forest Classifier model is the most preferred because it has the least number of false positives and negatives. 
 
 ![image](https://github.com/user-attachments/assets/587496d6-57a3-4d0c-81ca-c0cb2013ccb0)
  
